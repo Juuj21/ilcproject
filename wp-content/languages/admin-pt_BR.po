@@ -402,10 +402,10 @@ msgstr "Atualizar %s agora"
 
 #. translators: 1: Plugin name, 2: Version number.
 #. translators: 1: Theme name, 2: Version number.
-#: wp-admin/includes/class-wp-automatic-updater.php:1060
-#: wp-admin/includes/class-wp-automatic-updater.php:1078
-#: wp-admin/includes/class-wp-automatic-updater.php:1101
-#: wp-admin/includes/class-wp-automatic-updater.php:1119
+#: wp-admin/includes/class-wp-automatic-updater.php:1064
+#: wp-admin/includes/class-wp-automatic-updater.php:1082
+#: wp-admin/includes/class-wp-automatic-updater.php:1105
+#: wp-admin/includes/class-wp-automatic-updater.php:1123
 msgid "- %1$s version %2$s"
 msgstr "- %1$s versão %2$s"
 
@@ -603,92 +603,92 @@ msgid "Error: You can&#8217;t reply to a comment on a draft post."
 msgstr "Erro: você não pode responder a um comentário em um rascunho de post."
 
 #. translators: %s: Themes screen URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1143
+#: wp-admin/includes/class-wp-automatic-updater.php:1147
 msgid "To manage themes on your site, visit the Themes page: %s"
 msgstr "Para gerenciar temas em seu site, visite a página de temas: %s"
 
 #. translators: %s: Plugins screen URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1134
+#: wp-admin/includes/class-wp-automatic-updater.php:1138
 msgid "To manage plugins on your site, visit the Plugins page: %s"
 msgstr "Para gerenciar plugins em seu site, visite a página de plugins: %s"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1114
+#: wp-admin/includes/class-wp-automatic-updater.php:1118
 msgid "These themes are now up to date:"
 msgstr "Estes temas estão atualizados:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1096
+#: wp-admin/includes/class-wp-automatic-updater.php:1100
 msgid "These plugins are now up to date:"
 msgstr "Estes plugins estão atualizados:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1073
+#: wp-admin/includes/class-wp-automatic-updater.php:1077
 msgid "These themes failed to update:"
 msgstr "A atualização destes temas falharam:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1055
+#: wp-admin/includes/class-wp-automatic-updater.php:1059
 msgid "These plugins failed to update:"
 msgstr "A atualização destes plugins falharam:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1050
+#: wp-admin/includes/class-wp-automatic-updater.php:1054
 msgid "Please check your site now. It’s possible that everything is working. If there are updates available, you should update."
 msgstr "Confira seu site agora. É possível que tudo esteja funcionando. Se houver atualizações disponíveis, você deve atualizar."
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1040
+#: wp-admin/includes/class-wp-automatic-updater.php:1044
 msgid "Howdy! Themes failed to update on your site at %s."
 msgstr "Olá! Falha ao atualizar temas no seu site em %s."
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1037
+#: wp-admin/includes/class-wp-automatic-updater.php:1041
 msgid "[%s] Some themes have failed to update"
 msgstr "[%s] A atualização de alguns temas falharam"
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1032
+#: wp-admin/includes/class-wp-automatic-updater.php:1036
 msgid "Howdy! Plugins failed to update on your site at %s."
 msgstr "Olá! Falha ao atualizar plugins no seu site em %s."
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1029
+#: wp-admin/includes/class-wp-automatic-updater.php:1033
 msgid "[%s] Some plugins have failed to update"
 msgstr "[%s] A atualização de alguns plugins falharam"
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1024
+#: wp-admin/includes/class-wp-automatic-updater.php:1028
 msgid "Howdy! Plugins and themes failed to update on your site at %s."
 msgstr "Olá! Falha ao atualizar plugins e temas no seu site em %s."
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1021
+#: wp-admin/includes/class-wp-automatic-updater.php:1025
 msgid "[%s] Some plugins and themes have failed to update"
 msgstr "[%s] A atualização de alguns plugins e temas falharam"
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1011
+#: wp-admin/includes/class-wp-automatic-updater.php:1015
 msgid "Howdy! Some themes have automatically updated to their latest versions on your site at %s. No further action is needed on your part."
 msgstr "Olá! Alguns temas foram atualizados automaticamente para as versões mais recentes no seu site em %s. Nenhuma ação adicional é necessária de sua parte."
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1008
+#: wp-admin/includes/class-wp-automatic-updater.php:1012
 msgid "[%s] Some themes were automatically updated"
 msgstr "[%s] Alguns temas foram atualizados automaticamente"
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1003
+#: wp-admin/includes/class-wp-automatic-updater.php:1007
 msgid "Howdy! Some plugins have automatically updated to their latest versions on your site at %s. No further action is needed on your part."
 msgstr "Olá! Alguns plugins foram atualizados automaticamente para as versões mais recentes no seu site em %s. Nenhuma ação adicional é necessária de sua parte."
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1000
+#: wp-admin/includes/class-wp-automatic-updater.php:1004
 msgid "[%s] Some plugins were automatically updated"
 msgstr "[%s] Alguns plugins foram atualizados automaticamente"
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:995
+#: wp-admin/includes/class-wp-automatic-updater.php:999
 msgid "Howdy! Some plugins and themes have automatically updated to their latest versions on your site at %s. No further action is needed on your part."
 msgstr "Olá! Alguns plugins e temas foram atualizados automaticamente para as versões mais recentes no seu site em %s. Nenhuma ação adicional é necessária de sua parte."
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:992
+#: wp-admin/includes/class-wp-automatic-updater.php:996
 msgid "[%s] Some plugins and themes have automatically updated"
 msgstr "[%s] Alguns plugins e temas foram automaticamente atualizados"
 
@@ -853,30 +853,30 @@ msgstr "O tema atual possui o seguinte erro: \"%s\"."
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:1113
 #: wp-admin/themes.php:689 wp-admin/js/updates.js:2834
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:736
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:792
 msgid "Enable auto-updates"
 msgstr "Ativar atualizações automáticas"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:1109
 #: wp-admin/themes.php:685 wp-admin/js/updates.js:2823
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:732
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:788
 msgid "Disable auto-updates"
 msgstr "Desativar atualizações automáticas"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:623
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:446
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:489
 msgid "Disable Auto-updates"
 msgstr "Desativar atualizações automáticas"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:620
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:442
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:485
 msgid "Enable Auto-updates"
 msgstr "Ativar atualizações automáticas"
 
 #. translators: %s: Number of plugins.
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-plugins-list-table.php:571
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:389
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:432
 msgid "Auto-updates Disabled <span class=\"count\">(%s)</span>"
 msgid_plural "Auto-updates Disabled <span class=\"count\">(%s)</span>"
 msgstr[0] "Atualização automática desativada <span class=\"count\">(%s)</span>"
@@ -885,14 +885,14 @@ msgstr[1] "Atualizações automáticas desativadas <span class=\"count\">(%s)</s
 #. translators: %s: Number of plugins.
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-plugins-list-table.php:563
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:381
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:424
 msgid "Auto-updates Enabled <span class=\"count\">(%s)</span>"
 msgid_plural "Auto-updates Enabled <span class=\"count\">(%s)</span>"
 msgstr[0] "Atualização automática ativada <span class=\"count\">(%s)</span>"
 msgstr[1] "Atualizações automáticas ativadas <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:468
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:293
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:336
 msgid "Automatic Updates"
 msgstr "Atualizações automáticas"
 
@@ -1025,6 +1025,7 @@ msgstr "Atualização automática"
 #: wp-admin/includes/class-wp-debug-data.php:1315
 #: wp-admin/includes/class-wp-plugins-list-table.php:1100
 #: wp-admin/themes.php:680 wp-admin/js/updates.js:2836
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:779
 msgid "Auto-updates disabled"
 msgstr "Atualizações automáticas desativadas"
 
@@ -1032,6 +1033,7 @@ msgstr "Atualizações automáticas desativadas"
 #: wp-admin/includes/class-wp-debug-data.php:1313
 #: wp-admin/includes/class-wp-plugins-list-table.php:1098
 #: wp-admin/themes.php:682 wp-admin/js/updates.js:2825
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:777
 msgid "Auto-updates enabled"
 msgstr "Atualizações automáticas ativadas"
 
@@ -1887,13 +1889,13 @@ msgstr "%1$s foi habilitado por %2$s ou adicionado ao arquivo de configuração.
 
 #. translators: Background update finished notification email subject. %s: Site
 #. title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1280
+#: wp-admin/includes/class-wp-automatic-updater.php:1284
 msgid "[%s] Background Update Finished"
 msgstr "[%s] Atualização em segundo plano concluída"
 
 #. translators: Background update failed notification email subject. %s: Site
 #. title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1277
+#: wp-admin/includes/class-wp-automatic-updater.php:1281
 msgid "[%s] Background Update Failed"
 msgstr "[%s] Atualização em segundo plano malsucedida"
 
@@ -3089,7 +3091,7 @@ msgid "Must Use Plugins"
 msgstr "Plugins obrigatórios (must use)"
 
 #: wp-admin/includes/class-wp-debug-data.php:150
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:844
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:904
 msgid "Active Theme"
 msgstr "Tema ativo"
 
@@ -6818,7 +6820,7 @@ msgctxt "revision date short format"
 msgid "j M @ H:i"
 msgstr "j \\d\\e F \\à\\s H:i"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1261
+#: wp-admin/includes/class-wp-automatic-updater.php:1265
 msgid ""
 "BETA TESTING?\n"
 "=============\n"
@@ -6842,7 +6844,7 @@ msgstr ""
 "\n"
 "Obrigado! -- Equipe WordPress"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1284
+#: wp-admin/includes/class-wp-automatic-updater.php:1288
 msgid ""
 "UPDATE LOG\n"
 "=========="
@@ -7528,36 +7530,36 @@ msgid "This screen shows an individual user all of their sites in this network, 
 msgstr "Esta tela mostra ao usuário todos os seus sites nesta rede e também permite definir um site principal. O usuário poderá usar os links sob cada site para visitá-lo ou visitar o painel do site."
 
 #. translators: 1: Error code, 2: Error message.
-#: wp-admin/includes/class-wp-automatic-updater.php:1317
+#: wp-admin/includes/class-wp-automatic-updater.php:1321
 msgid "Error: [%1$s] %2$s"
 msgstr "Erro: [%1$s] %2$s"
 
 #. translators: 1: Error code, 2: Error message.
-#: wp-admin/includes/class-wp-automatic-updater.php:1314
+#: wp-admin/includes/class-wp-automatic-updater.php:1318
 msgid "Rollback Error: [%1$s] %2$s"
 msgstr "Erro de rollback: [%1$s] %2$s"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1243
+#: wp-admin/includes/class-wp-automatic-updater.php:1247
 msgid "The following translations failed to update:"
 msgstr "As atualizações das seguintes traduções falharam:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1242
+#: wp-admin/includes/class-wp-automatic-updater.php:1246
 msgid "The following themes failed to update:"
 msgstr "A atualização dos seguintes temas falhou:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1241
+#: wp-admin/includes/class-wp-automatic-updater.php:1245
 msgid "The following plugins failed to update:"
 msgstr "A atualização dos seguintes plugins falhou:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1229
+#: wp-admin/includes/class-wp-automatic-updater.php:1233
 msgid "The following translations were successfully updated:"
 msgstr "As seguintes traduções foram atualizadas com sucesso:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1228
+#: wp-admin/includes/class-wp-automatic-updater.php:1232
 msgid "The following themes were successfully updated:"
 msgstr "Os seguintes temas foram atualizados com sucesso:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1227
+#: wp-admin/includes/class-wp-automatic-updater.php:1231
 msgid "The following plugins were successfully updated:"
 msgstr "Os seguintes plugins foram atualizados com sucesso:"
 
@@ -7645,27 +7647,27 @@ msgid "Quick Draft"
 msgstr "Rascunho rápido"
 
 #. translators: %s: Name of plugin / theme / translation.
-#: wp-admin/includes/class-wp-automatic-updater.php:1250
+#: wp-admin/includes/class-wp-automatic-updater.php:1254
 msgid "FAILED: %s"
 msgstr "FALHOU: %s"
 
 #. translators: %s: Name of plugin / theme / translation.
-#: wp-admin/includes/class-wp-automatic-updater.php:1235
+#: wp-admin/includes/class-wp-automatic-updater.php:1239
 msgid "SUCCESS: %s"
 msgstr "SUCESSO: %s"
 
 #. translators: %s: WordPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:1213
+#: wp-admin/includes/class-wp-automatic-updater.php:1217
 msgid "FAILED: WordPress failed to update to %s"
 msgstr "FALHOU: A atualização do WordPress para %s falhou"
 
 #. translators: %s: WordPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:1210
+#: wp-admin/includes/class-wp-automatic-updater.php:1214
 msgid "SUCCESS: WordPress was successfully updated to %s"
 msgstr "SUCESSO: O WordPress foi atualizado para %s com sucesso"
 
 #. translators: %s: Network home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1203
+#: wp-admin/includes/class-wp-automatic-updater.php:1207
 msgid "WordPress site: %s"
 msgstr "Site do WordPress: %s"
 
@@ -7722,7 +7724,7 @@ msgid "We have some data that describes the error your site encountered."
 msgstr "Nós temos alguns dados que descrevem o erro que seu site encontrou."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:804
-#: wp-admin/includes/class-wp-automatic-updater.php:1152
+#: wp-admin/includes/class-wp-automatic-updater.php:1156
 msgid "The WordPress Team"
 msgstr "A equipe do WordPress"
 
@@ -7731,7 +7733,7 @@ msgid "You also have some plugins or themes with updates available. Update them 
 msgstr "Você também possui alguns plugins e temas com atualizações disponíveis. Atualize-os agora:"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:785
-#: wp-admin/includes/class-wp-automatic-updater.php:1150
+#: wp-admin/includes/class-wp-automatic-updater.php:1154
 msgid "If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help."
 msgstr "Se você passar por qualquer problema ou precisar de suporte, os voluntários nos fóruns de suporte do WordPress.org podem ajudá-lo."
 
@@ -9949,8 +9951,8 @@ msgstr "Todos os usuários"
 #: wp-admin/edit-tag-form.php:278
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:290
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:714
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:436
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:587
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:479
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:630
 #: wp-admin/includes/class-wp-ms-users-list-table.php:115
 #: wp-admin/includes/class-wp-ms-users-list-table.php:514
 msgid "Delete"
@@ -10059,7 +10061,7 @@ msgstr "Usuário adicionado."
 #: wp-admin/includes/update.php:231 wp-admin/includes/update.php:271
 #: wp-admin/includes/ajax-actions.php:4442
 #: wp-admin/includes/ajax-actions.php:4485
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:670
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:713
 msgid "Version %s"
 msgstr "Versão %s"
 
@@ -10472,8 +10474,8 @@ msgstr "Este tema descendente herda os modelos de um tema ascendente, %s."
 
 #: wp-admin/includes/class-theme-installer-skin.php:150
 #: wp-admin/js/updates.js:1280
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:426
-#: wp-admin/includes/class-wp-ms-themes-list-table.php:534
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:469
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:577
 msgid "Network Enable"
 msgstr "Ativar na Rede"
 
